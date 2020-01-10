@@ -2,7 +2,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Employee Website
 
-Employee Website:  https://fathomless-dusk-13183.herokuapp.com/home
+https://fathomless-dusk-13183.herokuapp.com/home
 
 ## Development server
 
